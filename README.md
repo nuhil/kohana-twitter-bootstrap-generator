@@ -23,7 +23,7 @@ build up a ready to develop web app using twitter bootstrap as template.
 the URLs of front end and backend of your newly created app (If you are in Mac). Otherwise, Open the browser and go to 
 [http://localhost/kohana/] (http://localhost/kohana/) OR [http://127.0.0.1/kohana/] (http://127.0.0.1/kohana/) if you are in other than Mac.  
 
-**Demo  
+**Demo**  
 You can see an implemenation here: [http://youtu.be/h97NBcLANwU](http://youtu.be/h97NBcLANwU)
 
 **Precautions**  
