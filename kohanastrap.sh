@@ -11,7 +11,7 @@ function help () {
     echo ""
     echo "    kohanastrap init                  - Initalize a ready to access web app";
     echo "    kohanastrap create ClassName   	- creates two class files and one view file";
-    echo "    kohanastrap open                   - open app in browser";
+    echo "    kohanastrap open                  - open app in browser";
 }
 
 KOHANA="https://github.com/downloads/kohana/kohana/kohana-3.3.0.zip"
